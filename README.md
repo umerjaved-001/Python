@@ -24,7 +24,7 @@ To clone this repository and run any of the scripts locally, execute the followi
 
 ```bash
 # Clone the workspace
-git clone [https://github.com/umerjaved-001/](https://github.com/umerjaved-001/)<your-new-repo-name>.git
+git clone [https://github.com/umerjaved-001/](https://github.com/umerjaved-001/)<Python>.git
 
 # Navigate into the target directory
-cd <your-new-repo-name>
+cd <Python>
