@@ -7,7 +7,7 @@ Welcome to my repository for tracking and compiling my practical work during my 
 
 *   **Language**: Python 3.x
 *   **Environment**: Visual Studio Code
-*   **Version Control**: Git & GitHub Student Developer Pack developer tools
+*   **Version Control**: Git & GitHub
 
 ## 👨‍💻 Intern Profile
 
