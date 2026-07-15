@@ -1,11 +1,11 @@
-def largest(a,b)
+def largest(a,b):
    if a > b :
-   return a
+      return a
    else :
-   return b
+      return b
 
-a = input("Enter value of a:")
-b = input("Enter value of b:")
+a = input("Enter value of a: ")
+b = input("Enter value of b: ")
 
 Result = largest(a,b)
 print("Largest number:",Result)

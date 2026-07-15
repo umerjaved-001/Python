@@ -1,7 +1,7 @@
-def square(number)
-  return number * number
+def square(number):
+  return number*number
 
 
-number = 5
+number = int(input("Enter a Number:"))
 result = square(number)
 print(result)
