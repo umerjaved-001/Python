@@ -1,0 +1,11 @@
+five_num = (44,55,66,77,88)
+
+print("Largest Number")
+max = max(five_num)
+print(max)
+print("Smallest Number")
+min = min(five_num)
+print(min)
+print("Total Numbers")
+total = len(five_num)
+print(total)
